@@ -1,2 +1,4 @@
 # devopsmap.github.io
-Useful links and information for learning DevOps
+
+There will be a list of useful links and notes about DevOps. Inspired by [this](https://roadmap.sh/devops) roadmap.
+
